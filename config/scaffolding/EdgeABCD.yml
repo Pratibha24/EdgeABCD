@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeABCD
+  gitServerName: PratibhaGit
+  gitUrl: https://github.com/Pratibha24/EdgeABCD
+  gitUsername: Pratibha24
+  gitToken: edge.scaffolding.EdgeABCD.PratibhaGit.gitToken
+  gitBranch: main
